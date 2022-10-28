@@ -1,0 +1,38 @@
+body {
+    border-radius: 50%;
+    padding: 10px;
+    margin: auto;
+}
+
+.icon {
+    border-radius: 50px;
+}
+
+.fa-heart {
+    color: red;
+}
+
+.footer {
+    margin-top: 15px;
+}
+
+.fa-bookmark {
+    margin-left: 300px;
+}
+
+.fa-paper-plane-o {
+    margin-left: 10px;
+}
+
+.fa-comment-o {
+    margin-left: 10px;
+}
+
+.caption {
+    margin-bottom: 50px;
+}
+.image{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
